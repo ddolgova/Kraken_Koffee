@@ -64,11 +64,7 @@ EDA included investigating the housing data to answer the following questions:
 
 ### Results and Insights
 
-The visualizations resulting from this analysis work well to assist homebuyers in finding a suitable property for purchase based on their selection criteria.
-This report also can be utilized by real estate companies, agents, and brokers, to get an overview of the housing market.
-Here are some of the insights that appear from the visualizations.
-Out of the 15,171 properties, the vast majority - 14,241 - are single family homes.
-Multi-family homes had the greatest difference between median and average home price.
-The median home price in the Austin, Texas area is $405,000 and the average home price is $512,768.
-Properties that are in areas with higher school ratings are on the western side of the Austin, Texas region.
-Some of the key influencers in home price increase include having more than 2 stories, more than 4 bedrooms, more than 2 parking/garage spaces, is built before 1957 or after 2017, and lot size/living area increases.
+So far in 2023 there has been $698,812 in revenue across 149,116 transactions.
+The strongest seller in terms of revenue is Davy Jones’ Sustainably Grown Organic Hot Chocolate Lg but this varies by location.
+The most popular time of day for business at the Florida locations is around 10AM. Sales don’t usually take off until after 7AM and have mostly subsided by 8PM. This has resulted in the management team considering reevaluating opening and closing times to reflect the wind-up and drop-off in business during the earlier and later parts of the day.
+Based on average daily sales so far in 2023, it is reasonable to have a sales target of $1,409,207 for the first year of sales. 
