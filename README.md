@@ -1,6 +1,6 @@
 # Kraken Koffee 2023 Half-Time Review
 
-## Interactive Power BI dashboard can be downloaded [here](https://www.microsoft.com).
+## Interactive Power BI dashboard can be downloaded [here](https://github.com/ddolgova/Kraken_Koffee/blob/main/Kraken%20Coffee.pbix).
 
 ## Table of Contents
 
